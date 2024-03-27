@@ -95,7 +95,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_QuoteFinder", "16_QuoteF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_TodoListSolution", "01_TodoListSolution\01_TodoListSolution.csproj", "{A948455F-72FA-4C8F-8305-595D8E59565F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_CodingSolutions", "00_CodingSolutions\00_CodingSolutions.csproj", "{890C031B-F4A3-4BC6-891E-62BF7855561E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00_CodingSolutions", "00_CodingSolutions\00_CodingSolutions.csproj", "{890C031B-F4A3-4BC6-891E-62BF7855561E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DiceRollGame_Solution", "DiceRollGame_Solution\02_DiceRollGame_Solution.csproj", "{B66E0A9C-3F49-4F74-8A67-CB280701AA71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66E0A9C-3F49-4F74-8A67-CB280701AA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66E0A9C-3F49-4F74-8A67-CB280701AA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66E0A9C-3F49-4F74-8A67-CB280701AA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66E0A9C-3F49-4F74-8A67-CB280701AA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
