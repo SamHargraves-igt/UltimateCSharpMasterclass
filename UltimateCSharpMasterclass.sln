@@ -93,6 +93,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_AsynchronyAndMultithread
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_QuoteFinder", "16_QuoteFinder\16_QuoteFinder.csproj", "{8A084EAD-E083-4045-9E6E-70177616D0A6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_TodoListSolution", "01_TodoListSolution\01_TodoListSolution.csproj", "{A948455F-72FA-4C8F-8305-595D8E59565F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_CodingSolutions", "00_CodingSolutions\00_CodingSolutions.csproj", "{890C031B-F4A3-4BC6-891E-62BF7855561E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +283,14 @@ Global
 		{8A084EAD-E083-4045-9E6E-70177616D0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A084EAD-E083-4045-9E6E-70177616D0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A084EAD-E083-4045-9E6E-70177616D0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A948455F-72FA-4C8F-8305-595D8E59565F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A948455F-72FA-4C8F-8305-595D8E59565F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A948455F-72FA-4C8F-8305-595D8E59565F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A948455F-72FA-4C8F-8305-595D8E59565F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890C031B-F4A3-4BC6-891E-62BF7855561E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

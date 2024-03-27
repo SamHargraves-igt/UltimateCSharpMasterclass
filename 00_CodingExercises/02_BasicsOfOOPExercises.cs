@@ -1,4 +1,6 @@
 ﻿//HotelBooking class
+
+
 public class HotelBooking
 {
     public string GuestName;
